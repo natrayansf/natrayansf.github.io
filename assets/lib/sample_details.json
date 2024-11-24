@@ -21,7 +21,7 @@
                 "status": "New",
                 "type": "sample",
                 "title": "Stock Forecasting",
-                "key": "stack_forecasting_sample",
+                "key": "stock_forecasting_sample",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/ai_samples/ai_charts/stock_forecasting_sample.dart"
               },
               {
@@ -63,7 +63,7 @@
                 "status": "New",
                 "type": "sample",
                 "title": "Calendar",
-                "key": "scheduler_sample",
+                "key": "calendar_sample",
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/ai_samples/ai_calender/scheduler_sample.dart"
               }
             ]
