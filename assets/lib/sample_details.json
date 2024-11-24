@@ -67,20 +67,6 @@
                 "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/ai_samples/ai_calender/scheduler_sample.dart"
               }
             ]
-          },
-          {
-            "status": "New",
-            "type": "child",
-            "title": "Maps",
-            "subItems": [
-              {
-                "status": "New",
-                "type": "sample",
-                "title": "Maps",
-                "key": "maps_sample",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/ai_samples/ai_maps/maps_sample.dart"
-              }
-            ]
           }
         ]
       },
