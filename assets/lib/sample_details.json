@@ -64,7 +64,7 @@
                 "type": "sample",
                 "title": "Calendar",
                 "key": "calendar_sample",
-                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/ai_samples/ai_calender/scheduler_sample.dart"
+                "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/ai_samples/ai_calender/calendar_sample.dart"
               }
             ]
           }
@@ -1367,7 +1367,7 @@
                   {
                     "status": "Updated",
                     "title": "Customized trackball",
-                    "key": "chart_with_trackball_template",
+                    "key": "chart_with_trackball_builder",
                     "description": "This example displays a custom widget as the trackball. To see the customized trackball, tap the chart area in mobile and hover the chart area on the web.",
                     "codeLink": "https://github.com/syncfusion/flutter-examples/blob/master/lib/samples/chart/cartesian_charts/user_interactions/trackball/customized_trackball.dart",
                     "needsPropertyPanel": true
